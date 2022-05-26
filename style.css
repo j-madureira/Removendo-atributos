@@ -1,0 +1,29 @@
+#t{
+    background-color: dodgerblue;
+    color: white;
+    margin: auto;
+    width: 790px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 9px;
+    text-align: center;
+}
+
+#pai{
+    background-color: cornflowerblue;
+    margin: auto;
+    width: 490px;
+    height: 523px;
+    border-radius: 9px;
+}
+
+#filho{
+    background-color: burlywood;
+    width: 324px;
+    height: 122px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: auto;
+    text-align: center;
+    border-radius: 9px;
+}
